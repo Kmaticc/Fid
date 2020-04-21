@@ -1,0 +1,52 @@
+
+html {
+  box-sizing: border-box;}
+*
+{box-sizing: inherit;}
+
+body{ 
+    
+        font-family:'Playfair Display', serif;
+        font-size: 100%;
+        background-color: Bisque;
+        margin: 2;
+}   
+strong {
+       color: #FF7182;
+}
+    
+/* styling our header */
+header   {
+    background: #2dd9d0;
+    color: #FFF;
+    padding: 20px;
+  }
+   h1{
+     font-family: Georgia, serif;
+     font-size: 60px;
+     text-align: center;
+     color:white;
+     text-shadow: 4px 4px 4px #000000;
+  }
+  header p {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-size: 1.2em;
+    text-align: center;
+    margin-top: -15px;
+  }
+  /* Keywords Values*/
+  h2 {
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    color: #FF7182;
+    border-top: 1px solid;
+    border-left: 3px solid;
+    padding-left: 1em;
+    margin-top: 2.5em;
+  }
+  
+  
+  
+    
+     
